@@ -9,3 +9,7 @@ __pycache__/
 venv/
 testingopenai/
 .env
+
+# TensorBoard logs
+logs/
+events.out.tfevents*

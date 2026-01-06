@@ -13,3 +13,4 @@ testingopenai/
 # TensorBoard logs
 logs/
 events.out.tfevents*
+regressionlogs/
